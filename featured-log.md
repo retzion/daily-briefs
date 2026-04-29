@@ -11,3 +11,4 @@ This file tracks which tools and skills have been featured in daily briefs to av
 - 2026-04-25: Custom Themes (/theme)
 - 2026-04-27: /loop skill
 - 2026-04-28: /recap (session context summary)
+- 2026-04-29: alwaysLoad MCP config option
