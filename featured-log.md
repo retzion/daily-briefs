@@ -12,3 +12,4 @@ This file tracks which tools and skills have been featured in daily briefs to av
 - 2026-04-27: /loop skill
 - 2026-04-28: /recap (session context summary)
 - 2026-04-29: alwaysLoad MCP config option
+- 2026-05-01: ant CLI (Anthropic API command-line client)
