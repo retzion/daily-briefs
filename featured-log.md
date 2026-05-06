@@ -17,3 +17,4 @@ This file tracks which tools and skills have been featured in daily briefs to av
 - 2026-05-03: /fewer-permission-prompts skill
 - 2026-05-04: claude project purge
 - 2026-05-05: /hooks (Interactive Hook Editor)
+- 2026-05-06: Plugin Archives & Remote Loading (--plugin-url)
