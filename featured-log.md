@@ -23,3 +23,4 @@ This file tracks which tools and skills have been featured in daily briefs to av
 - 2026-05-09: Auto Mode Configuration (settings.autoMode)
 - 2026-05-10: /radio (Claude FM)
 - 2026-05-11: /review skill (structured PR review from Claude Code)
+- 2026-05-12: PR Activity Subscription (subscribe_pr_activity)
