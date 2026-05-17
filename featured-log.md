@@ -28,3 +28,4 @@ This file tracks which tools and skills have been featured in daily briefs to av
 - 2026-05-14: /goal command (autonomous task completion)
 - 2026-05-15: Fast Mode (`/fast`)
 - 2026-05-16: Plugin Marketplace Token Estimates
+- 2026-05-17: /init (CLAUDE.md Initialization)
