@@ -31,3 +31,4 @@ This file tracks which tools and skills have been featured in daily briefs to av
 - 2026-05-17: /init (CLAUDE.md Initialization)
 - 2026-05-18: Session Start Hooks
 - 2026-05-19: /resume for Background Sessions
+- 2026-05-20: /verify skill (run app and observe behavior to confirm changes work)
