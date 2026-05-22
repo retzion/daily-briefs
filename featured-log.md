@@ -33,3 +33,4 @@ This file tracks which tools and skills have been featured in daily briefs to av
 - 2026-05-19: /resume for Background Sessions
 - 2026-05-20: /verify skill (run app and observe behavior to confirm changes work)
 - 2026-05-21: /compact (proactive context management)
+- 2026-05-22: Self-hosted Sandboxes (run code execution on your own infrastructure)
