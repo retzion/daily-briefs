@@ -35,3 +35,4 @@ This file tracks which tools and skills have been featured in daily briefs to av
 - 2026-05-21: /compact (proactive context management)
 - 2026-05-22: Self-hosted Sandboxes (run code execution on your own infrastructure)
 - 2026-05-23: /usage per-category breakdown
+- 2026-05-24: Agent Teams (multi-agent peer-to-peer orchestration)
