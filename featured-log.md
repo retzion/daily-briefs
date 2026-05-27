@@ -38,3 +38,4 @@ This file tracks which tools and skills have been featured in daily briefs to av
 - 2026-05-24: Agent Teams (multi-agent peer-to-peer orchestration)
 - 2026-05-25: Pinned Background Sessions (Ctrl+T in claude agents)
 - 2026-05-26: Rewind Menu — Selective Summarization (Summarize from/up to here)
+- 2026-05-27: MessageDisplay Hook (transform/hide assistant output via hooks)
