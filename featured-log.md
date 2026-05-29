@@ -40,3 +40,4 @@ This file tracks which tools and skills have been featured in daily briefs to av
 - 2026-05-26: Rewind Menu — Selective Summarization (Summarize from/up to here)
 - 2026-05-27: MessageDisplay Hook (transform/hide assistant output via hooks)
 - 2026-05-28: Status Line Customization (configurable terminal status bar)
+- 2026-05-29: Dynamic Workflows (/effort ultracode orchestration)
