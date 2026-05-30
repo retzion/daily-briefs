@@ -41,3 +41,4 @@ This file tracks which tools and skills have been featured in daily briefs to av
 - 2026-05-27: MessageDisplay Hook (transform/hide assistant output via hooks)
 - 2026-05-28: Status Line Customization (configurable terminal status bar)
 - 2026-05-29: Dynamic Workflows (/effort ultracode orchestration)
+- 2026-05-30: /deep-research (multi-source fact-checked research harness)
