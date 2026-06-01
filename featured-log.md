@@ -43,3 +43,4 @@ This file tracks which tools and skills have been featured in daily briefs to av
 - 2026-05-29: Dynamic Workflows (/effort ultracode orchestration)
 - 2026-05-30: /deep-research (multi-source fact-checked research harness)
 - 2026-05-31: Security-Guidance Plugin (continuous three-stage security scanner)
+- 2026-06-01: `claude plugin init` (Plugin Scaffolding)
