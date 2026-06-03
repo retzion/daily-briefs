@@ -45,3 +45,4 @@ This file tracks which tools and skills have been featured in daily briefs to av
 - 2026-05-31: Security-Guidance Plugin (continuous three-stage security scanner)
 - 2026-06-01: `claude plugin init` (Plugin Scaffolding)
 - 2026-06-02: `claude -p` (Pipe / Headless Mode)
+- 2026-06-03: Keybindings Customization (~/.claude/keybindings.json)
