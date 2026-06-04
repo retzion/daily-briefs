@@ -46,3 +46,4 @@ This file tracks which tools and skills have been featured in daily briefs to av
 - 2026-06-01: `claude plugin init` (Plugin Scaffolding)
 - 2026-06-02: `claude -p` (Pipe / Headless Mode)
 - 2026-06-03: Keybindings Customization (~/.claude/keybindings.json)
+- 2026-06-04: `claude agents --json` (Programmatic Agent Monitoring)
