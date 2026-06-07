@@ -49,3 +49,4 @@ This file tracks which tools and skills have been featured in daily briefs to av
 - 2026-06-04: `claude agents --json` (Programmatic Agent Monitoring)
 - 2026-06-05: `/plugin list` (Plugin Inventory Command)
 - 2026-06-06: `fallbackModel` Setting (Model Fallback Chain)
+- 2026-06-07: `/code-review` Skill (Structured Diff Review with --comment and --fix)
