@@ -52,3 +52,4 @@ This file tracks which tools and skills have been featured in daily briefs to av
 - 2026-06-07: `/code-review` Skill (Structured Diff Review with --comment and --fix)
 - 2026-06-08: `/doctor` (Setup Diagnostics)
 - 2026-06-09: `--safe-mode` (Troubleshooting Flag)
+- 2026-06-10: `/cd` Command (In-Session Directory Switching)
