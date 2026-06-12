@@ -54,3 +54,4 @@ This file tracks which tools and skills have been featured in daily briefs to av
 - 2026-06-09: `--safe-mode` (Troubleshooting Flag)
 - 2026-06-10: `/cd` Command (In-Session Directory Switching)
 - 2026-06-11: `/context` (Context Window Inspector)
+- 2026-06-12: Nested Sub-Agents (5 Levels Deep)
