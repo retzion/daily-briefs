@@ -57,3 +57,4 @@ This file tracks which tools and skills have been featured in daily briefs to av
 - 2026-06-12: Nested Sub-Agents (5 Levels Deep)
 - 2026-06-13: `enforceAvailableModels` Managed Setting
 - 2026-06-14: `language` Setting (Session Title Localization)
+- 2026-06-15: `/run` Skill (Launch & Drive Your App)
