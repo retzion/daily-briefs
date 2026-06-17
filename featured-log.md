@@ -59,3 +59,4 @@ This file tracks which tools and skills have been featured in daily briefs to av
 - 2026-06-14: `language` Setting (Session Title Localization)
 - 2026-06-15: `/run` Skill (Launch & Drive Your App)
 - 2026-06-16: `Tool(param:value)` Permission Syntax
+- 2026-06-17: MCP Tunnels (Research Preview)
