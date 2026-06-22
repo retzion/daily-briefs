@@ -64,3 +64,4 @@ This file tracks which tools and skills have been featured in daily briefs to av
 - 2026-06-19: Auto Mode Safety Guardrails
 - 2026-06-20: `CLAUDE_CLIENT_PRESENCE_FILE` (Presence-Based Notification Suppression)
 - 2026-06-21: `attribution.sessionUrl` Setting (Commit/PR Attribution Control)
+- 2026-06-22: `/powerup` (Interactive Lessons)
