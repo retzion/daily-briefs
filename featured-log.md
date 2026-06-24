@@ -66,3 +66,4 @@ This file tracks which tools and skills have been featured in daily briefs to av
 - 2026-06-21: `attribution.sessionUrl` Setting (Commit/PR Attribution Control)
 - 2026-06-22: `/powerup` (Interactive Lessons)
 - 2026-06-23: Claude Code Artifacts (live shareable pages from coding sessions)
+- 2026-06-24: `sandbox.credentials` Setting (one-line credential file blocking in sandbox mode)
