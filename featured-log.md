@@ -70,3 +70,4 @@ This file tracks which tools and skills have been featured in daily briefs to av
 - 2026-06-25: `claude mcp login` / `claude mcp logout` (CLI-based MCP server authentication)
 - 2026-06-26: DesignSync Tool (two-way sync between Claude Design and Claude Code)
 - 2026-06-27: Shell Mode Auto-Explain (`!` prefix)
+- 2026-06-28: Fullscreen Rendering (`/tui fullscreen`)
