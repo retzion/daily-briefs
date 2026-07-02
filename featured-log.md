@@ -74,3 +74,4 @@ This file tracks which tools and skills have been featured in daily briefs to av
 - 2026-06-29: Claude Tag (Slack Agentic Integration)
 - 2026-06-30: Streaming Idle Watchdog
 - 2026-07-01: Cache Diagnostics (`diagnostics.previous_message_id`)
+- 2026-07-02: `/dataviz` Skill (chart and dashboard design guidance)
