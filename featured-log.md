@@ -77,3 +77,4 @@ This file tracks which tools and skills have been featured in daily briefs to av
 - 2026-07-02: `/dataviz` Skill (chart and dashboard design guidance)
 - 2026-07-03: Stacked Slash-Skill Invocations (chain up to 5 skills in one prompt)
 - 2026-07-04: Draft PR Handoff (Background Agent Auto-PR)
+- 2026-07-05: Session Forking (`/branch`)
