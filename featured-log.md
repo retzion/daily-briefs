@@ -78,3 +78,4 @@ This file tracks which tools and skills have been featured in daily briefs to av
 - 2026-07-03: Stacked Slash-Skill Invocations (chain up to 5 skills in one prompt)
 - 2026-07-04: Draft PR Handoff (Background Agent Auto-PR)
 - 2026-07-05: Session Forking (`/branch`)
+- 2026-07-06: `/claude-api` Skill (Claude API Quick Reference)
