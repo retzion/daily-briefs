@@ -80,3 +80,4 @@ This file tracks which tools and skills have been featured in daily briefs to av
 - 2026-07-05: Session Forking (`/branch`)
 - 2026-07-06: `/claude-api` Skill (Claude API Quick Reference)
 - 2026-07-07: Dynamic Workflow Size Setting
+- 2026-07-09: `--json-schema` (Structured CLI Output)
