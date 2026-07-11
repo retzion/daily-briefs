@@ -82,3 +82,4 @@ This file tracks which tools and skills have been featured in daily briefs to av
 - 2026-07-07: Dynamic Workflow Size Setting
 - 2026-07-09: `--json-schema` (Structured CLI Output)
 - 2026-07-10: MCP `roots/list` Support
+- 2026-07-11: `/commit-push-pr` (One-Command Ship Workflow)
