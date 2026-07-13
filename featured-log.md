@@ -84,3 +84,4 @@ This file tracks which tools and skills have been featured in daily briefs to av
 - 2026-07-10: MCP `roots/list` Support
 - 2026-07-11: `/commit-push-pr` (One-Command Ship Workflow)
 - 2026-07-12: In-App Browser (Claude Code Desktop)
+- 2026-07-13: Custom Agent Types (`.claude/agents/`)
