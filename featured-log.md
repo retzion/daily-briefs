@@ -88,3 +88,4 @@ This file tracks which tools and skills have been featured in daily briefs to av
 - 2026-07-14: Screen Reader Mode (`--ax-screen-reader`)
 - 2026-07-15: `/skill-creator` (Custom Skill Authoring)
 - 2026-07-16: `--forward-subagent-text` (Subagent Stream Forwarding)
+- 2026-07-17: `/health` (Installation Health Audit)
