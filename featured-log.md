@@ -91,3 +91,4 @@ This file tracks which tools and skills have been featured in daily briefs to av
 - 2026-07-17: `/health` (Installation Health Audit)
 - 2026-07-18: Session Resource Caps (`CLAUDE_CODE_MAX_WEB_SEARCHES_PER_SESSION` / `CLAUDE_CODE_MAX_SUBAGENTS_PER_SESSION`)
 - 2026-07-19: MCP Auto-Background (`CLAUDE_CODE_MCP_AUTO_BACKGROUND_MS`)
+- 2026-07-20: `/subtask` (Lightweight In-Session Fork)
