@@ -96,3 +96,4 @@ This file tracks which tools and skills have been featured in daily briefs to av
 - 2026-07-22: Artifact Runtime Capabilities (live data, shared state, self-updating published pages)
 - 2026-07-23: `/pdf` Skill (PDF Operations)
 - 2026-07-24: `/pptx` Skill (Presentation Operations)
+- 2026-07-25: `/docx` Skill (Word Document Operations)
