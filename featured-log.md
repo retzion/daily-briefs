@@ -97,3 +97,4 @@ This file tracks which tools and skills have been featured in daily briefs to av
 - 2026-07-23: `/pdf` Skill (PDF Operations)
 - 2026-07-24: `/pptx` Skill (Presentation Operations)
 - 2026-07-25: `/docx` Skill (Word Document Operations)
+- 2026-07-26: ToolSearch (Deferred Tool Loading)
