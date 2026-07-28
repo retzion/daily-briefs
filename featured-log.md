@@ -99,3 +99,4 @@ This file tracks which tools and skills have been featured in daily briefs to av
 - 2026-07-25: `/docx` Skill (Word Document Operations)
 - 2026-07-26: ToolSearch (Deferred Tool Loading)
 - 2026-07-27: Plan Mode (`/plan` + Shift+Tab)
+- 2026-07-28: `sandbox.network.strictAllowlist` Setting (deny-by-default network control for sandboxed commands)
