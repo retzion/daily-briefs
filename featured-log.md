@@ -103,3 +103,4 @@ This file tracks which tools and skills have been featured in daily briefs to av
 - 2026-07-29: Microsoft 365 Connector Write Tools (email, calendar, OneDrive/SharePoint write operations)
 - 2026-07-30: VS Code Multi-Chat Sessions
 - 2026-07-31: `DirectoryAdded` Hook
+- 2026-08-01: SearchMcpRegistry (In-Session MCP Server Discovery)
