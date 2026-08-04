@@ -106,3 +106,4 @@ This file tracks which tools and skills have been featured in daily briefs to av
 - 2026-08-01: SearchMcpRegistry (In-Session MCP Server Discovery)
 - 2026-08-02: Google Drive MCP Connector
 - 2026-08-03: Workflow Resume (`resumeFromRunId`)
+- 2026-08-04: Nested Workflows (`workflow()` function)
