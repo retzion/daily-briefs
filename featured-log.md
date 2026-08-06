@@ -108,3 +108,4 @@ This file tracks which tools and skills have been featured in daily briefs to av
 - 2026-08-03: Workflow Resume (`resumeFromRunId`)
 - 2026-08-04: Nested Workflows (`workflow()` function)
 - 2026-08-05: Focus View (VS Code, Ctrl+Alt+F)
+- 2026-08-06: `/teleport` (Cloud-to-Local Session Handoff)
