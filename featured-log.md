@@ -113,3 +113,4 @@ This file tracks which tools and skills have been featured in daily briefs to av
 - 2026-08-08: Self-Hosted Runners (`claude self-hosted-runner`)
 - 2026-08-09: Inference Hooks (Enterprise Inline DLP)
 - 2026-08-10: MCP Stateless Core (2026-07-28 Spec)
+- 2026-08-11: Workflow `budget` Global (Token-Aware Agent Orchestration)
