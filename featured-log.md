@@ -115,3 +115,4 @@ This file tracks which tools and skills have been featured in daily briefs to av
 - 2026-08-10: MCP Stateless Core (2026-07-28 Spec)
 - 2026-08-11: Workflow `budget` Global (Token-Aware Agent Orchestration)
 - 2026-08-12: Agent Worktree Isolation (`isolation: "worktree"`)
+- 2026-08-13: VS Code Session Groups
