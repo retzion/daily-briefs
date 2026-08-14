@@ -116,3 +116,4 @@ This file tracks which tools and skills have been featured in daily briefs to av
 - 2026-08-11: Workflow `budget` Global (Token-Aware Agent Orchestration)
 - 2026-08-12: Agent Worktree Isolation (`isolation: "worktree"`)
 - 2026-08-13: VS Code Session Groups
+- 2026-08-14: Managed Agents GitHub Skill Loading
