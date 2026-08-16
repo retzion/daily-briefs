@@ -118,3 +118,4 @@ This file tracks which tools and skills have been featured in daily briefs to av
 - 2026-08-13: VS Code Session Groups
 - 2026-08-14: Managed Agents GitHub Skill Loading
 - 2026-08-15: `@` Mentions (Cross-Session Prompt Mentions)
+- 2026-08-16: `CLAUDE_CODE_TOOL_MEMORY_LIMIT` (Bash Tool Memory Capping)
