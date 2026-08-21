@@ -123,3 +123,4 @@ This file tracks which tools and skills have been featured in daily briefs to av
 - 2026-08-18: Subagent Forking (`subagent_type: "fork"`)
 - 2026-08-19: Artifact Comment Threads
 - 2026-08-20: "Concise" Output Style
+- 2026-08-21: `ANTHROPIC_DEFAULT_MODEL` Environment Variable
