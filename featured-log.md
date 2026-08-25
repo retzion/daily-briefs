@@ -127,3 +127,4 @@ This file tracks which tools and skills have been featured in daily briefs to av
 - 2026-08-22: Cloud Session Plugin Sync (`@synced`)
 - 2026-08-23: Artifact Asset Uploads (`upload_asset`)
 - 2026-08-24: `/design` Skill (Visual Artboard Design from CLI)
+- 2026-08-25: `/claude-api upgrade` (Automated SDK Migration)
