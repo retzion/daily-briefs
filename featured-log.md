@@ -131,3 +131,4 @@ This file tracks which tools and skills have been featured in daily briefs to av
 - 2026-08-26: `modelPicker` Setting (Custom Model Picker Configuration)
 - 2026-08-27: Keyless Console Sign-In (`/login` Console Auth)
 - 2026-08-28: `--restricted` Mode (Locked-Down CLI Execution)
+- 2026-08-29: `experimental.cacheTtl` (Per-Agent Prompt Cache TTL)
