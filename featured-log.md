@@ -135,3 +135,4 @@ This file tracks which tools and skills have been featured in daily briefs to av
 - 2026-08-30: SendFeedback Tool (Auto-Drafted Bug Reports)
 - 2026-08-31: PreModelSwitch / PostModelSwitch Hooks
 - 2026-09-01: Artifact Watches (`action: "watch"`)
+- 2026-09-02: Artifact Database (`read_db` / `write_db`)
