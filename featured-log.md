@@ -139,3 +139,4 @@ This file tracks which tools and skills have been featured in daily briefs to av
 - 2026-09-03: `managedMcpServers` (Enterprise MCP Server Governance)
 - 2026-09-04: `/diff` (Live Diff Panel)
 - 2026-09-05: `/skill-doctor` (Skill Audit & Context Cost Report)
+- 2026-09-06: `bashOutputMaxChars` / `taskOutputMaxChars` (Inline Output Limit Settings)
