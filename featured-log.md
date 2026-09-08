@@ -141,3 +141,4 @@ This file tracks which tools and skills have been featured in daily briefs to av
 - 2026-09-05: `/skill-doctor` (Skill Audit & Context Cost Report)
 - 2026-09-06: `bashOutputMaxChars` / `taskOutputMaxChars` (Inline Output Limit Settings)
 - 2026-09-07: `--append-subagent-system-prompt-file` (Subagent Prompt Files)
+- 2026-09-08: `ant apply` (Declarative Agent Resource Management)
