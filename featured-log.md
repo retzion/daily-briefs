@@ -142,3 +142,4 @@ This file tracks which tools and skills have been featured in daily briefs to av
 - 2026-09-06: `bashOutputMaxChars` / `taskOutputMaxChars` (Inline Output Limit Settings)
 - 2026-09-07: `--append-subagent-system-prompt-file` (Subagent Prompt Files)
 - 2026-09-08: `ant apply` (Declarative Agent Resource Management)
+- 2026-09-09: `--plugin-dir` (Local Plugin Development Workflow)
