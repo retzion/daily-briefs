@@ -145,3 +145,4 @@ This file tracks which tools and skills have been featured in daily briefs to av
 - 2026-09-09: `--plugin-dir` (Local Plugin Development Workflow)
 - 2026-09-10: `maxEffortLevel` Setting (Provider-Wide Effort Cap)
 - 2026-09-11: `claude plugin eval` (Plugin Evaluation Suites)
+- 2026-09-12: `timeFormat` / `timeZone` Settings (Session Clock Customization)
