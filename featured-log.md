@@ -147,3 +147,4 @@ This file tracks which tools and skills have been featured in daily briefs to av
 - 2026-09-11: `claude plugin eval` (Plugin Evaluation Suites)
 - 2026-09-12: `timeFormat` / `timeZone` Settings (Session Clock Customization)
 - 2026-09-13: `/output-style` Command (On-the-Fly Response Style Switching)
+- 2026-09-14: Artifact Pinning (`action: "pin"` / `action: "unpin"`)
