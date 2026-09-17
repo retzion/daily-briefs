@@ -150,3 +150,4 @@ This file tracks which tools and skills have been featured in daily briefs to av
 - 2026-09-14: Artifact Pinning (`action: "pin"` / `action: "unpin"`)
 - 2026-09-15: `omitClaudeMd` Agent Option (Run Subagents Without CLAUDE.md)
 - 2026-09-16: Gateway Hint Headers (LLM Gateway Request Metadata)
+- 2026-09-17: `CLAUDE_CODE_MCP_STARTUP_WAIT_MS` (MCP Startup Timeout Control)
