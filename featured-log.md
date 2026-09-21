@@ -154,3 +154,4 @@ This file tracks which tools and skills have been featured in daily briefs to av
 - 2026-09-18: Send-Now Key (`Ctrl+Enter`)
 - 2026-09-19: AGENTS.md Support (Cross-Tool Project Instructions)
 - 2026-09-20: Claude Code Projects (Beta)
+- 2026-09-21: On-Demand Conversation Compaction (Messages API)
