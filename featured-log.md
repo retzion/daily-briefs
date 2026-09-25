@@ -158,3 +158,4 @@ This file tracks which tools and skills have been featured in daily briefs to av
 - 2026-09-22: Smart Reports (Enterprise Beta)
 - 2026-09-23: `CLAUDE_CODE_MAX_MCP_DESCRIPTION_LENGTH` (MCP Description Length Override)
 - 2026-09-24: Artifact Types & Quickstart
+- 2026-09-25: MCP Elicitation (Browser Auth Flows)
