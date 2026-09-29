@@ -162,3 +162,4 @@ This file tracks which tools and skills have been featured in daily briefs to av
 - 2026-09-26: `claude remote-control` (Remote Control from Phone)
 - 2026-09-27: `/doctor prompt-audit` (CLAUDE.md & Project Instruction Auditing)
 - 2026-09-28: `availableModelsMatch` & `deniedModels` Managed Settings (Enterprise Model Governance)
+- 2026-09-29: Claude Mods (TypeScript Function Hooks)
