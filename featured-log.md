@@ -164,3 +164,4 @@ This file tracks which tools and skills have been featured in daily briefs to av
 - 2026-09-28: `availableModelsMatch` & `deniedModels` Managed Settings (Enterprise Model Governance)
 - 2026-09-29: Claude Mods (TypeScript Function Hooks)
 - 2026-09-30: Detachable Desktop Panes (Claude Code Desktop pop-out windows)
+- 2026-10-01: `maxProseWidth` Setting (readable prose width in wide terminals)
