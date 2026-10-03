@@ -166,3 +166,4 @@ This file tracks which tools and skills have been featured in daily briefs to av
 - 2026-09-30: Detachable Desktop Panes (Claude Code Desktop pop-out windows)
 - 2026-10-01: `maxProseWidth` Setting (readable prose width in wide terminals)
 - 2026-10-02: `/import-memory` Skill (Import Memory from Other AI Assistants)
+- 2026-10-03: `ReportFindings` Tool (Structured Code Review Output)
