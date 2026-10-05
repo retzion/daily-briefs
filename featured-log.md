@@ -168,3 +168,4 @@ This file tracks which tools and skills have been featured in daily briefs to av
 - 2026-10-02: `/import-memory` Skill (Import Memory from Other AI Assistants)
 - 2026-10-03: `ReportFindings` Tool (Structured Code Review Output)
 - 2026-10-04: "You Should Know" Built-In Mod (Side Agent Watchdog)
+- 2026-10-05: Claude for Government (GA)
