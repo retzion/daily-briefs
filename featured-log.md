@@ -172,3 +172,4 @@ This file tracks which tools and skills have been featured in daily briefs to av
 - 2026-10-06: `agent.spawn` (Plugin Subagent Spawning API)
 - 2026-10-07: Remote Agent Isolation (`isolation: "remote"`)
 - 2026-10-08: `--marketplace` flag for `claude plugin install`
+- 2026-10-09: `/google-workspace` Skill (Google Docs, Sheets & Slides Integration)
