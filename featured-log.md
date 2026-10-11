@@ -174,3 +174,4 @@ This file tracks which tools and skills have been featured in daily briefs to av
 - 2026-10-08: `--marketplace` flag for `claude plugin install`
 - 2026-10-09: `/google-workspace` Skill (Google Docs, Sheets & Slides Integration)
 - 2026-10-10: Program Status Protocol (OSC 7501)
+- 2026-10-11: Claude Dashboards (Beta)
