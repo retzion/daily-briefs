@@ -176,3 +176,4 @@ This file tracks which tools and skills have been featured in daily briefs to av
 - 2026-10-10: Program Status Protocol (OSC 7501)
 - 2026-10-11: Claude Dashboards (Beta)
 - 2026-10-12: Agent Tool `effort` Parameter (Per-Subagent Effort Control)
+- 2026-10-13: `/insights` Command (Session Analytics Report)
