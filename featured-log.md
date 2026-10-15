@@ -178,3 +178,4 @@ This file tracks which tools and skills have been featured in daily briefs to av
 - 2026-10-12: Agent Tool `effort` Parameter (Per-Subagent Effort Control)
 - 2026-10-13: `/insights` Command (Session Analytics Report)
 - 2026-10-14: Idle Compaction (`idleCompaction`)
+- 2026-10-15: `onFailure: "block"` for Hooks (Hook Failure Blocking)
