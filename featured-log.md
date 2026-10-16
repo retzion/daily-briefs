@@ -179,3 +179,4 @@ This file tracks which tools and skills have been featured in daily briefs to av
 - 2026-10-13: `/insights` Command (Session Analytics Report)
 - 2026-10-14: Idle Compaction (`idleCompaction`)
 - 2026-10-15: `onFailure: "block"` for Hooks (Hook Failure Blocking)
+- 2026-10-16: `CLAUDE_CODE_DISABLE_FILE_MENTIONS` (Lazy File Mention Loading)
