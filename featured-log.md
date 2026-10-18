@@ -181,3 +181,4 @@ This file tracks which tools and skills have been featured in daily briefs to av
 - 2026-10-15: `onFailure: "block"` for Hooks (Hook Failure Blocking)
 - 2026-10-16: `CLAUDE_CODE_DISABLE_FILE_MENTIONS` (Lazy File Mention Loading)
 - 2026-10-17: `/advisor` (Advisor Tool)
+- 2026-10-18: `waitOnRateLimit` Setting (Unattended Rate-Limit Retry)
