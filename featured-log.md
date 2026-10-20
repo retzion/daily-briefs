@@ -183,3 +183,4 @@ This file tracks which tools and skills have been featured in daily briefs to av
 - 2026-10-17: `/advisor` (Advisor Tool)
 - 2026-10-18: `waitOnRateLimit` Setting (Unattended Rate-Limit Retry)
 - 2026-10-19: Built-In Browser Skill (`anthropic-skills:built-in-browser`)
+- 2026-10-20: `anthropic-skills:computer-use` (Computer Use Skill)
