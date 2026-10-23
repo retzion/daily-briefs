@@ -184,3 +184,6 @@ This file tracks which tools and skills have been featured in daily briefs to av
 - 2026-10-18: `waitOnRateLimit` Setting (Unattended Rate-Limit Retry)
 - 2026-10-19: Built-In Browser Skill (`anthropic-skills:built-in-browser`)
 - 2026-10-20: `anthropic-skills:computer-use` (Computer Use Skill)
+- 2026-10-21: `/auto-mode-setup` (Guided Auto Mode Environment Setup)
+- 2026-10-22: Code Review Organization Levels (Per-Repo Depth Configuration)
+- 2026-10-23: `anthropic-skills:morning` (Morning Brief Skill)
