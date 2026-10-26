@@ -189,3 +189,4 @@ This file tracks which tools and skills have been featured in daily briefs to av
 - 2026-10-23: `anthropic-skills:morning` (Morning Brief Skill)
 - 2026-10-24: `NotebookEdit` Tool (Jupyter Notebook Cell Editing)
 - 2026-10-25: `Explore` Agent Type (Fast Read-Only Code Search)
+- 2026-10-26: `claude-code-guide` Agent Type (Specialized Claude Code Q&A Agent)
