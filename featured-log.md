@@ -192,3 +192,4 @@ This file tracks which tools and skills have been featured in daily briefs to av
 - 2026-10-26: `claude-code-guide` Agent Type (Specialized Claude Code Q&A Agent)
 - 2026-10-27: Artifact Multi-File Publishing (`files` parameter)
 - 2026-10-28: Claude Duet (Research Preview)
+- 2026-10-29: Granola Transcript Saver (`anthropic-skills:granola-transcript-saver`)
