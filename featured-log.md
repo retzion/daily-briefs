@@ -193,3 +193,4 @@ This file tracks which tools and skills have been featured in daily briefs to av
 - 2026-10-27: Artifact Multi-File Publishing (`files` parameter)
 - 2026-10-28: Claude Duet (Research Preview)
 - 2026-10-29: Granola Transcript Saver (`anthropic-skills:granola-transcript-saver`)
+- 2026-10-30: CronCreate / CronList / CronDelete (In-Session Routine Management)
