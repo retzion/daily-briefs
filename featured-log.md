@@ -196,3 +196,4 @@ This file tracks which tools and skills have been featured in daily briefs to av
 - 2026-10-30: CronCreate / CronList / CronDelete (In-Session Routine Management)
 - 2026-10-31: OpenTelemetry Export for Claude API (Public Beta)
 - 2026-11-01: `claude auth` (CLI Authentication Subcommands)
+- 2026-11-02: `permissions.blockWritesOutsideWorkingDirectories` (Write Guard)
