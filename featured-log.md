@@ -198,3 +198,4 @@ This file tracks which tools and skills have been featured in daily briefs to av
 - 2026-11-01: `claude auth` (CLI Authentication Subcommands)
 - 2026-11-02: `permissions.blockWritesOutsideWorkingDirectories` (Write Guard)
 - 2026-11-03: Message Threads (Messages API Public Beta)
+- 2026-11-04: `CLAUDE_CODE_SUBAGENT_EFFORT` Environment Variable
