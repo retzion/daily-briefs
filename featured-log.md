@@ -200,3 +200,4 @@ This file tracks which tools and skills have been featured in daily briefs to av
 - 2026-11-03: Message Threads (Messages API Public Beta)
 - 2026-11-04: `CLAUDE_CODE_SUBAGENT_EFFORT` Environment Variable
 - 2026-11-05: `artifact-diagramming` Skill (Diagram Design Guidance for Artifacts)
+- 2026-11-06: `pipeline()` Workflow Function (Streaming Multi-Stage Orchestration)
