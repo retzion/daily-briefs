@@ -203,3 +203,4 @@ This file tracks which tools and skills have been featured in daily briefs to av
 - 2026-11-06: `pipeline()` Workflow Function (Streaming Multi-Stage Orchestration)
 - 2026-11-07: Account Email Privacy Guard (v2.1.317)
 - 2026-11-08: MCP Resource Browsing (ListMcpResourcesTool / ReadMcpResourceTool)
+- 2026-11-09: Artifact Preflight Scripts (`preflight.js`)
