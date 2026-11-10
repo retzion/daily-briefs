@@ -204,3 +204,4 @@ This file tracks which tools and skills have been featured in daily briefs to av
 - 2026-11-07: Account Email Privacy Guard (v2.1.317)
 - 2026-11-08: MCP Resource Browsing (ListMcpResourcesTool / ReadMcpResourceTool)
 - 2026-11-09: Artifact Preflight Scripts (`preflight.js`)
+- 2026-11-10: `ReadNotifications` Tool (Event-Driven Session Inbox)
