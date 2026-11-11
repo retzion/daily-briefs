@@ -205,3 +205,4 @@ This file tracks which tools and skills have been featured in daily briefs to av
 - 2026-11-08: MCP Resource Browsing (ListMcpResourcesTool / ReadMcpResourceTool)
 - 2026-11-09: Artifact Preflight Scripts (`preflight.js`)
 - 2026-11-10: `ReadNotifications` Tool (Event-Driven Session Inbox)
+- 2026-11-11: `anthropic-skills:chrome-browser` (Chrome Browser Skill)
