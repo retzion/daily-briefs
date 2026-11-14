@@ -208,3 +208,4 @@ This file tracks which tools and skills have been featured in daily briefs to av
 - 2026-11-11: `anthropic-skills:chrome-browser` (Chrome Browser Skill)
 - 2026-11-12: `run_secret_scanning` GitHub MCP Tool (Repository Secret Scanning)
 - 2026-11-13: `permissions.denyInsteadOfPrompting` (Headless Denial Mode)
+- 2026-11-14: MCP Background Tasks (v2.1.319)
