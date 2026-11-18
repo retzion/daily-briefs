@@ -212,3 +212,4 @@ This file tracks which tools and skills have been featured in daily briefs to av
 - 2026-11-15: Code Mode (v2.1.323)
 - 2026-11-16: Cloud Session Environment Configuration
 - 2026-11-17: `engines["claude-code"]` in plugin.json (Plugin Version Compatibility)
+- 2026-11-18: Artifact Inline Edits (`edits` on Publish)
