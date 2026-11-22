@@ -216,3 +216,4 @@ This file tracks which tools and skills have been featured in daily briefs to av
 - 2026-11-19: `WebFetch` Tool (In-Session Web Reading)
 - 2026-11-20: Shell Head Start (Early Bash Startup)
 - 2026-11-21: Workflow `args` Global (Parameterized Workflows)
+- 2026-11-22: Claude Desktop Release Channels (Stable vs Latest)
