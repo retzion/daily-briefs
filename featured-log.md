@@ -220,3 +220,4 @@ This file tracks which tools and skills have been featured in daily briefs to av
 - 2026-11-23: Auto Mode on Third-Party Providers
 - 2026-11-24: Claude Fable 5.2
 - 2026-11-25: MCP Server Skills (Beta)
+- 2026-11-26: Mutation Testing for AI-Generated Code
