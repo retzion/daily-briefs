@@ -222,3 +222,4 @@ This file tracks which tools and skills have been featured in daily briefs to av
 - 2026-11-25: MCP Server Skills (Beta)
 - 2026-11-26: Mutation Testing for AI-Generated Code
 - 2026-11-27: Easel (Built-In Mod)
+- 2026-11-28: ScheduleWakeup Tool (Dynamic Loop Self-Pacing)
